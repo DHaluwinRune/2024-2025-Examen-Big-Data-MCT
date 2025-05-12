@@ -1,0 +1,89 @@
+{
+    "_index": "books_dataset",
+    "_id": "0671776800-11676",
+    "_version": 1,
+    "_seq_no": 1,
+    "_primary_term": 1,
+    "found": true,
+    "_source": {
+        "book" : {
+            "title": "Paradise",
+            "image_urls": {
+                "medium": "http://images.amazon.com/images/P/0671776800.01.MZZZZZZ.jpg",
+                "large": "http://images.amazon.com/images/P/0671776800.01.LZZZZZZ.jpg",
+                "small": "http://images.amazon.com/images/P/0671776800.01.THUMBZZZ.jpg"
+            },
+            "publisher": "Pocket",
+            "year_of_publication": 1992,
+            "author": "Juditch McNaught",
+            "isbn": "0671776800"
+        },
+        "user": {
+            "age": null,
+            "user_id": 11676
+        },
+        "book_rating": 10
+    }
+}
+
+{
+    "_index": "books_dataset",
+    "_id": "8466306773-8437",
+    "_version": 1,
+    "_seq_no": 19696,
+    "_primary_term": 1,
+    "found": true,
+    "_source": {
+        "book" : {
+            "title": "Instinto de Inez",
+            "image_urls": {
+                "medium": "http://images.amazon.com/images/P/8466306773.01.MZZZZZZ.jpg",
+                "large": "http://images.amazon.com/images/P/8466306773.01.LZZZZZZ.jpg",
+                "small": "http://images.amazon.com/images/P/8466306773.01.THUMBZZZ.jpg"
+            },
+            "publisher": "Alfaguara/Santillana USA",
+            "year_of_publication": 2003,
+            "author": "Carlos Fuentes",
+            "isbn": "8466306773"
+        },
+        "user": {
+            "city": "Queretaro",
+            "age": 31,
+            "country": "Mexico",
+            "state": "Queretaro",
+            "user_id": 8437
+        },
+        "book_rating": 8
+    }
+}
+
+{
+    "_index": "books_dataset",
+    "_id": "0140071962-172085",
+    "_version": 1,
+    "_seq_no": 981964,
+    "_primary_term": 1,
+    "found": true,
+    "_source": {
+        "book" : {
+            "title": "The Mysterious Mr. Ripley (Crime Monthly)",
+            "image_urls": {
+                "medium": "http://images.amazon.com/images/P/0140071962.01.MZZZZZZ.jpg",
+                "large": "http://images.amazon.com/images/P/0140071962.01.LZZZZZZ.jpg",
+                "small": "http://images.amazon.com/images/P/0140071962.01.THUMBZZZ.jpg"
+            },
+            "publisher": "Penguin USA",
+            "year_of_publication": 1985,
+            "author": "Patricia Highsmith",
+            "isbn": "0140071962"
+        },
+        "user": {
+            "city": "Kortrijk",
+            "age": 48,
+            "country": "Belgium",
+            "state": "West-Vlaanderen",
+            "user_id": 172085
+        },
+        "book_rating": 8
+    }
+}
